@@ -22,3 +22,11 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+## 发布
+
+```bash
+jcc_moac_tool --config test --deploy build/UniswapV2Factory.json --parameters '"地址"' --gas_limit 3800000
+```
+
+测试网络地址: 0x9e770b446d0af9d5e9f6e164de09e17edb459121
