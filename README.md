@@ -39,4 +39,4 @@ jcc_moac_tool --config test --deploy build/UniswapV2Router02.json --parameters '
 
 JCC token : 0x48b106f4bf30f9ef83557141341c060e6d954e19
 TPT token : 0xe592303d955ca9c515a7d62f374cf46cbeb42dfb
-测试通证： 0x7fDDc0121CFfDB072a2cD9962dbf6bF151f7a7BC
+测试通证发放地址： 0x7fDDc0121CFfDB072a2cD9962dbf6bF151f7a7BC
