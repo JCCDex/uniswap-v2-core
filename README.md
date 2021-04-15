@@ -37,8 +37,8 @@ jcc_moac_tool --config ~/.jcc_moac_tool/config.venus.test.json --deploy build/Un
 
 测试网络地址: 0xa02265536ad2c18eb55581f57034704d5ccd5df5
 
-JCC token : 0x48b106f4bf30f9ef83557141341c060e6d954e19
-TPT token : 0xe592303d955ca9c515a7d62f374cf46cbeb42dfb
-WMOAC token: 0x4e00ca2b4f66d22219a2d98af146710fad840f33
+- JCC token : 0x48b106f4bf30f9ef83557141341c060e6d954e19
+- TPT token : 0xe592303d955ca9c515a7d62f374cf46cbeb42dfb
+- WMOAC token: 0x4e00ca2b4f66d22219a2d98af146710fad840f33
 
 测试通证发放地址： 0x7fDDc0121CFfDB072a2cD9962dbf6bF151f7a7BC
